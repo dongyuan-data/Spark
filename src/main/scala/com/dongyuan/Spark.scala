@@ -8,9 +8,9 @@ import org.apache.spark.sql.SparkSession
   * @Package_Name com.dongyuan
   * @Create_Time 2020/3/11 21:46
   */
-object Spark {
+/*object Spark {
   def main(args: Array[String]): Unit = {
     val sparkConf = new SparkConf().setAppName("Spark").setMaster("local[*]")
-    SparkSession.
+    SparkSession.Sparkcontext()
   }
-}
+}*/
